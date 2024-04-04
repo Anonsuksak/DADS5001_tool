@@ -1,6 +1,6 @@
 <img width="777" alt="Screen Shot 2567-04-04 at 21 22 41" src="https://github.com/Anonsuksak/DADS5001/assets/148941448/b4472015-6b44-4963-aa59-f3faff955e6f">
 
-กราฟที่ 1 Apple's Revenue by Product (2008-2022)
+กราฟที่ 1 Apple's Revenue by Products (2008-2022)
 
 1) Explain your data sources
      จากกราฟที่ 1 แสดงรายรับของบริษัท Apple จำแนกตามประเภทสินค้า ซึ่งได้แก่ iPhone, Mac, iPad, iPod, Services & other(Accessories) ตั้งแต่ปี 2008 - 2022 พบว่า ในปี 2018 สัดส่วนสินค้าที่สร้างรายรับให้กับบริษัทมากที่สุดคือ Mac คิดเป็นร้อยละ 44.1 ของรายรับทั้งหมด รองลงมาคือ iPod, Services & other และ iPhone คิดเป็นร้อยละ 28.3, 22.1 และ 5.6 ตามลำดับ นอกจากนี้ยังพบว่า สัดส่วนรายรับของ iPad คิดเป็นร้อยละ 0.0 เนื่องจากเป็นสินค้าที่เปิดตัวครั้งแรกปี 2010
