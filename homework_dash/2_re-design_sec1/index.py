@@ -23,8 +23,6 @@ from app import app
 from apps import scatter_layout, histogram_layout, line_layout, treemap_layout
 
 
-app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])
-
 # the style arguments for the sidebar. We use position:fixed and a fixed width
 SIDEBAR_STYLE = {
     "position": "fixed",
