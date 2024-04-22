@@ -1,4 +1,9 @@
 """
+Assignment
+
+2. Re-design Sec1 by using this link https://dash-bootstrap-components.opensource.faculty.ai/examples/simple-sidebar/
+
+ 
 This app creates a simple sidebar layout using inline style arguments and the
 dbc.Nav component.
 
