@@ -16,9 +16,8 @@ For more details on building multi-page Dash applications, check out the Dash
 documentation: https://dash.plot.ly/urls
 """
 
-import dash
 import dash_bootstrap_components as dbc
-from dash import Input, Output, dcc, html, callback
+from dash import Input, Output, dcc, html
 from app import app
 from apps import scatter_layout, histogram_layout, line_layout, treemap_layout
 
