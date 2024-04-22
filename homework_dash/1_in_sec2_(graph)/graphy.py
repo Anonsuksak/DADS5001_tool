@@ -1,3 +1,12 @@
+"""
+Assignment
+1. In Sec2 (graph)
+- Adding the 3rd figure (bar chart). This bar chart is updated based on the selection of the line
+chart.
+- Fix color bugs.
+
+"""
+
 from dash import Dash, dcc, html, Input, Output
 import plotly.express as px
 import plotly.colors as colors
