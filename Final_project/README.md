@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>CHATBOT Dash with Gemini and Google Search</h1>
+  <h1>Thai CHATBOT Dash with Gemini and Google Search</h1>
 </div>
 
 # Team Members<br>
