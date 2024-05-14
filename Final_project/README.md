@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Thai CHATBOT Dash with Gemini and Google Search</h1>
+  <h1>Thai Chatbot Dash with Gemini and Google Search</h1>
 </div>
 
 # Team Members<br>
@@ -55,4 +55,4 @@ You can view our presentation by scanning the QR code below:
 1. Coding Money for Gemini chatbot example - https://www.youtube.com/watch?v=_HNMEGkjzsE
 2. Frank Adams for LLM workflow  - https://medium.com/@FrankAdams7/unleashing-the-power-of-large-language-models-building-an-ai-chatbot-for-private-knowledge-base-eb8cf31c7fcc
 3. Thakorn.T for Embedding knowledge - https://www.tangerine.co.th/blogs/data-analytics-artificial-intelligence/generative-ai-vertor-embedding/
-4. HuggingFace for Chatbot idea - https://huggingface.co/spaces?search=gemini
+4. Hugging Face for Chatbot ideas - https://huggingface.co/spaces?search=gemini
