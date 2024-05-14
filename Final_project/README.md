@@ -46,6 +46,9 @@ def google_search(query):
 ```python
 python app.py
 ```
+# Limitation
+Only Text-Text generation
+
 # Our Presentation
 You can view our presentation by scanning the QR code below:
 
