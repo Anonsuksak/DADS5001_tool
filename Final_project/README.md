@@ -32,11 +32,11 @@ git clone https://github.com/Anonsuksak/DADS5001_tool/Final_project.git
 ```
 3. Edit app.py by using your Gemini and Google search API keys and search engine ID using the steps below:<br>
 
-For Gemini API, You can get "YOUR API KEY" by using Google AI Studio.
+For Gemini API line 16, You can get "YOUR API KEY" by using Google AI Studio.
 ```python
 genai.configure(api_key="YOUR API KEY")
 ```
-For Google search API keys and search engine ID, you can get "YOUR API KEY" by using Custom Search JSON API and "YOUR SEARCH ENGINE ID" by using Programmable Search Engine(free edition) by Google.
+For Google search API keys line 58 and search engine ID line 59, you can get "YOUR API KEY" by using Custom Search JSON API and "YOUR SEARCH ENGINE ID" by using Programmable Search Engine(free edition) by Google.
 ```python
 def google_search(query):
     api_key = 'YOUR API KEY'
