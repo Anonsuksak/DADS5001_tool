@@ -13,7 +13,7 @@ from urllib.parse import quote_plus
 # Initialize Dash app
 app = dash.Dash(__name__)
 
-genai.configure(api_key="AIzaSyDlzbJO6zS8lSSycVF-9HViolElQVENYJQ")
+genai.configure(api_key="YOUR API KEY")
 
 # Set up the model
 generation_config = {
@@ -55,8 +55,8 @@ model = genai.GenerativeModel(
 
 # Function to perform Google search
 def google_search(query):
-    api_key = 'AIzaSyAxdaQude_KwEpa-RzWOD7BTh0jbjbSO6g'
-    search_engine_id = '1373717699f114c7e'
+    api_key = 'YOUR API KEY'
+    search_engine_id = 'YOUR SEARCH ENGINE ID'
     encoded_query = quote_plus(query)
     url = f'https://www.googleapis.com/customsearch/v1?q={encoded_query}&key={api_key}&cx={search_engine_id}'
     response = requests.get(url)
