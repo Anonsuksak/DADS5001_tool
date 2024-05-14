@@ -14,7 +14,7 @@
   <img src="https://github.com/Anonsuksak/DADS5001_tool/assets/148941448/180af5d4-294e-4ef5-b983-978413efe05a" alt="Screen Shot 2567-05-14 at 12 40 30" width="200"/>
 </div>
 
-# Video example
+# Example of usage video
 https://github.com/Anonsuksak/DADS5001_tool/assets/148941448/a5b56e85-2f3e-4114-8eea-ee3613eb726e
 
 # Workflow
