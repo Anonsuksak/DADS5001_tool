@@ -50,3 +50,9 @@ python app.py
 You can view our presentation by scanning the QR code below:
 
 <img width="263" alt="Screen Shot 2567-05-14 at 12 22 48" src="https://github.com/Anonsuksak/DADS5001_tool/assets/148941448/4e99cf4d-5f6f-4546-b52d-f5886e5e720b">
+
+# References
+1. Coding Money for Gemini chatbot example - https://www.youtube.com/watch?v=_HNMEGkjzsE
+2. Frank Adams for LLM workflow  - https://medium.com/@FrankAdams7/unleashing-the-power-of-large-language-models-building-an-ai-chatbot-for-private-knowledge-base-eb8cf31c7fcc
+3. Thakorn.T for Embedding knowledge - https://www.tangerine.co.th/blogs/data-analytics-artificial-intelligence/generative-ai-vertor-embedding/
+4. HuggingFace for Chatbot idea - https://huggingface.co/spaces?search=gemini
