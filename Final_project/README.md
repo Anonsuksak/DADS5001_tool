@@ -17,6 +17,11 @@
 # Example of usage video
 https://github.com/Anonsuksak/DADS5001_tool/assets/148941448/a5b56e85-2f3e-4114-8eea-ee3613eb726e
 
+
+https://github.com/Anonsuksak/DADS5001_tool/assets/148941448/69273197-553c-4614-a6b9-a6fc0feccb27
+
+
+
 # Workflow
 <img width="782" alt="Screen Shot 2567-05-14 at 14 09 55" src="https://github.com/Anonsuksak/DADS5001_tool/assets/148941448/9c7c0a81-255a-4de6-b88a-45edece798ab">
 
