@@ -15,11 +15,7 @@
 </div>
 
 # Example of usage video
-https://github.com/Anonsuksak/DADS5001_tool/assets/148941448/a5b56e85-2f3e-4114-8eea-ee3613eb726e
-
-
-https://github.com/Anonsuksak/DADS5001_tool/assets/148941448/69273197-553c-4614-a6b9-a6fc0feccb27
-
+https://github.com/Anonsuksak/DADS5001_tool/assets/148941448/2e73c4d9-c6f1-4c36-81a3-c8f9d9658784
 
 
 # Workflow
